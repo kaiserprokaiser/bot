@@ -16,19 +16,19 @@
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "4b9780cbc0b78b1bf981ee70f6b66037"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": ""
+            "value": "21089193"
         },
         "BOT_TOKEN": {
             "description": "Your bot token, as a string. Get this from @BotFather",
-            "value": ""
+            "value": "5861921387:AAH16m1v_EsdMIFuacnUwlWfjMbZ0z2HnJI"
         },
         "CHANNEL_ID": {
             "description": "your channel id in format -10023352648:-100655379 (from channel id:to channel id) if you want to give more channels seperate them with white space",
-            "value": ""
+            "value": "-1891499224:-1719508907"
         }
     },
     "buildpacks": [{"url": "heroku/python"}]
